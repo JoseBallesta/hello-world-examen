@@ -7,3 +7,5 @@ Este es mi primer repositorio
 ## Despues de crear este repositorio le daremos a crear una nueva rama con el nombre que queramos yo le he puesto readme-edits ya que en el ejercicio 3 se nos pedia ese nombre en la rama. Estoy editando esto desde la rama readme-edits para que salga editada en la main.
 
 ## A continuacion podemos Poner un comentario a nuestro readme-edits
+## Le damos a commit para guardar los cambios y asi podemos comparar lo que habia y lo que hay en el main.
+![Captura4](https://user-images.githubusercontent.com/91874404/159226588-7c18a4e4-4ffe-44cd-97ed-a5e7a15b4772.PNG)
