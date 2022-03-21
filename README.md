@@ -9,3 +9,5 @@ Este es mi primer repositorio
 ## A continuacion podemos Poner un comentario a nuestro readme-edits
 ## Le damos a commit para guardar los cambios y asi podemos comparar lo que habia y lo que hay en el main.
 ![Captura4](https://user-images.githubusercontent.com/91874404/159226588-7c18a4e4-4ffe-44cd-97ed-a5e7a15b4772.PNG)
+## Añadimos a Maximo como colaborador para que pueda editar y ver los cambios
+![Captura5](https://user-images.githubusercontent.com/91874404/159227156-a7f78268-7eae-4fa9-b954-eaa16edddbe5.PNG)
