@@ -14,3 +14,8 @@
 ### Aqui podemos ver los cambios que hay entre la rama main y la rama de readme-edits.
 ![Captura6](https://user-images.githubusercontent.com/91874404/159227833-b10e3a78-a079-4be2-b4ab-fe7a1a61bee4.PNG)
 ### Para acabar tendremos que hacer un merge de la rama main y la rama readme-edits.
+### Pero antes hacemos un pull request
+![Captura7](https://user-images.githubusercontent.com/91874404/159228488-a90428e6-fe68-4989-a231-2b376d2e8ebc.PNG)
+### Y ya nos dejara hacer el merge de la rama edits a la main
+![Captura8](https://user-images.githubusercontent.com/91874404/159228568-67b74e28-2bab-4887-9c1d-f8418830b82e.PNG)
+
